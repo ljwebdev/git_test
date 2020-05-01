@@ -1,1 +1,3 @@
-# git_test ///
+# git_test
+
+This is ljwebdev's first git project!
